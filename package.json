@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/nodebotanist/AS7262-Spectral-j5/issues"
   },
-  "homepage": "https://github.com/nodebotanist/AS7262-Spectral-j5#readme"
+  "homepage": "https://github.com/nodebotanist/AS7262-Spectral-j5#readme",
+  "dependencies": {
+    "johnny-five": "^0.14.3"
+  }
 }
